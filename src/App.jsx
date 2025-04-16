@@ -1,10 +1,10 @@
 import './App.css'
-import Greetings from "./component/Greetings.jsx"
+import Counter from './component/Counter.jsx';
 
 function App() {
   return (
     <>
-      <Greetings />
+      <div><Counter /></div>
     </>
   )
 }  

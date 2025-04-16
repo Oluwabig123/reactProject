@@ -1,12 +1,12 @@
-function Greetings(){ {
+function Greetings(){ 
 
     // Hello world component
     return (
-        <div className="greet">
+        <div >
             <h1>{"Hello World!"}</h1>
         </div>
     )
-}
+
 
 }
 export default Greetings;
